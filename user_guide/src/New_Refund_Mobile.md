@@ -1,5 +1,5 @@
 # Refunds
-![How to make a refund on the MFI External mobile application](./images/Mobile_Refunds.png "Mobile Refunds")
+![How to make a refund on the MFI External mobile application](./images/Mobile_Refunds.png "Mobile Refunds")\
 ***How to Perform Refunds on the Mobile app***
 - On the main page click on the refunds button.
 - On the new refund page enter the national ID of the customer and click on the search tab.

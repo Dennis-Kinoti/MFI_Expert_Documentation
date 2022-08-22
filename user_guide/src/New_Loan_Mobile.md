@@ -1,5 +1,5 @@
 # New_Loan
-![How to create a new loan on the MFI Expert mobile application](./images/Mobile_New_Loan.png "New Loan Application")
+![How to create a new loan on the MFI Expert mobile application](./images/Mobile_New_Loan.png "New Loan Application")\
 ***Creating  new loan on the mobile app***
 - On the primary page click on the loan tab.
 - Enter the national ID number of the customer and click on the search button.

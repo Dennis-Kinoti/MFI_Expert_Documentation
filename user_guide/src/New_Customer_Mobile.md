@@ -1,5 +1,5 @@
 # New_Customer
-![How to create a new customer account on the MFI Expert mobile app](./images/Mobile_New_Customer.png "New Customer")
+![How to create a new customer account on the MFI Expert mobile app](./images/Mobile_New_Customer.png "New Customer")\
 ***Creating a New Customer Account***
 
 - On the primary page click on customer tab.

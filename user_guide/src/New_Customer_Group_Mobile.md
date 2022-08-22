@@ -1,5 +1,5 @@
 # New Customer Group
-![How to create a new customer group account on the MFI Expert mobile app ](./images/Mobile_New_Customer_Group.png "New Customer Group")
+![How to create a new customer group account on the MFI Expert mobile app ](./images/Mobile_New_Customer_Group.png "New Customer Group")\
 ***Creating a New Customer Group***
 - Open your mfi expert app on your mobile device.
 - Log in into your user account.
