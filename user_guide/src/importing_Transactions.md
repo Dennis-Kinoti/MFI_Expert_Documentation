@@ -1,3 +1,5 @@
 # Importing Transactions
-![How to import transactions on the MFI Export system](./images/Import_Transactions.png "Import Transactions")
+
+
+![How to import customer transactions on the MFI Expert system](./images/Import_Transactions.png "Importing Transactions")
 ***How to Import Transactions***

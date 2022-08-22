@@ -1,6 +1,6 @@
 # How to make Branch Movements
-![This is the Alternate text](./images/aaaah.png "This is the hover text")
-***This is the image caption***
+![How to make branch movements on the MFI Expert system](./images/Branch_Movement.png "Branch Movements")
+***Branch Movements***
 
 - On the main menu click on customer transactions.
 - On the drop down menu select branch movements.

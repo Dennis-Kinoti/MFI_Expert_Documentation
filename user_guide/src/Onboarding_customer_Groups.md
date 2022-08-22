@@ -1,5 +1,5 @@
 # Onboarding New Customer Groups
-![This is the Alternate text](./images/aaaah.png "This is the hover text")
+![How to onboard a new customer group on the MFI Expert system](./images/New_Customer_Group.png "New Customer Groups")
 ***This is the image caption***
 
 - On the main menu click on the customer setup tab.
@@ -18,8 +18,8 @@
 
 
 Document Uploads
-![This is the Alternate text](./images/aaaah.png "This is the hover text")
-***This is the image caption***
+![How to upload necessary documents on the new customer groups on the MFI Expert system](./images/New_Customer_Group_doc_upload.png "Document Uploads")
+***Uploading Documents***
 
 
 - At the bottom right of the page click on the documents tab to upload the necessary files
