@@ -1,4 +1,7 @@
 # How to make Branch Movements
+![This is the Alternate text](./images/aaaah.png "This is the hover text")
+***This is the image caption***
+
 - On the main menu click on customer transactions.
 - On the drop down menu select branch movements.
 - On the customer branch movements page click on new movement at the top left bar. 

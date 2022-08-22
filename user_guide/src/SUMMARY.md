@@ -3,7 +3,7 @@
 [Introduction](introduction.md)
 ---
 - [Web App](./web_app.md)
-  - [Handling Users](Handling_Users.md)
+  - [Manage Users](Handling_Users.md)
     - [Creating User Roles](./User_Roles.md)
     - [Register New User](./New_user.md)
   - [General Configurations](./General_Configurations.md)

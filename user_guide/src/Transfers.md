@@ -1,4 +1,6 @@
 # How to perform Transfers
+![How to perform transfer transactions on the MFI Expert application](./images/Transfers.png "Customer Transactions")
+***How to Perform transfer Transactions***
 
 - On the main menu click on the customer transactions tab.
 - On the drop down menu select transfers.

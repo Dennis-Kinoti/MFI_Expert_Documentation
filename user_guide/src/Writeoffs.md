@@ -1,4 +1,7 @@
 # How to perform Writeoffs
+![How to perform write-offs transactions on the MFI Expert system](./images/Write_offs.png "Write-Offs")
+***How to perform Writeoffs***
+
 - On the main menu click on customer transactions.
 - On the drop down menu select write offs.
 - On the write offs page click on the new write off tab at  the top left bar. 

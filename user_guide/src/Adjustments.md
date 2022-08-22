@@ -1,4 +1,7 @@
 # How to perform Adjustments
+![How to make new adjustments on the MFI Expert system](./images/Adjustment.png "New Adjustments")
+***How to make Adjustments***
+
 - On the main menu click on the customer transactions. 
 - On the drop down menu select adjustments.
 - On the adjustments page click on the new adjustment tab at the top left bar.

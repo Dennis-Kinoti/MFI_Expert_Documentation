@@ -1,4 +1,7 @@
 # Setting up Saving Products
+![How to setup savings product on the MFI Expert application](./images/Setting_up_savings_product.png "Savings Product Setup")
+***Setting up Savings Product***
+
 - On the main menu click on general setup. 
 - On the general setup drop down click on savings. products.
 - On the page that appears click on new savings product at the top left of your page.
@@ -11,7 +14,10 @@
 - Indicate the amortization period as either daily, monthly…
 - If there is an interest on the product indicate the GL account for it.
 - Click on the save button to create the product.
-## Setting up Charges
+## Adding Charges
+![How to add charges to a Savings product on the MFI Expert system](./images/Adding_charges_to_savings-products.png "Adding Charges")
+***Adding Charges to a Savings Product***
+
 
 
 - On the savings product page click on the newly created product I.e *Christmas Savings*.
