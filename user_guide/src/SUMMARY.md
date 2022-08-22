@@ -11,7 +11,7 @@
     - [Setting Up Branches](./Setting_up_Branches.md)
     - [Creating GL Account](./Creating_GL_Accounts.md)
       - [Customizing GL Account](./Customizing_GL_Accounts.md)
-    - [Handling Savings Products](./Setting_up_Savings_products.md)
+    - [Setting Up Savings Products](./Setting_up_Savings_products.md)
     - [Setting Up Loan Products](./Setting_up_Loan_Products.md)
     - [Setting Up Suppliers](./Setting_up_Suppliers.md)
     - [Setting Up Charges](./Setting_up_Charges.md)
@@ -39,7 +39,14 @@
   
 ------
 
-- [Mobile App](mobile_app.md) 
+- [Mobile App](mobile_app.md)
+  -  [New Customer Group](./New_Customer_Group_Mobile.md) 
+  -  [New_Customer](New_Customer_Mobile.md)
+  -  [New_Loan](New_Loan_Mobile.md)
+  -  [Refunds](New_Refund_Mobile.md)
+  
+ 
+ 
 
 ------
 
