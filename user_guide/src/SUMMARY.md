@@ -36,6 +36,9 @@
     - [Adjustments](./Adjustments.md)
     - [Importing Transactions](./importing_Transactions.md)
     - [Branch Movements](./Branch-movements.md)
+  - [Reports](Reports.md)
+    - [Branch Reports](Branch_Reports.md)
+    - [Product Reports](Product_Reports.md)
   
 ------
 
@@ -44,6 +47,9 @@
   -  [New_Customer](New_Customer_Mobile.md)
   -  [New_Loan](New_Loan_Mobile.md)
   -  [Refunds](New_Refund_Mobile.md)
+  
+ 
+
   
  
  
