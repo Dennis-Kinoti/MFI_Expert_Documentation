@@ -20,6 +20,6 @@ level = 0         # the depth to start folding
 
 [output.html]
 theme = "theme"
-default-theme = "Navy"
+default-theme = "Light"
 preferred-dark-theme = "Navy"
 
