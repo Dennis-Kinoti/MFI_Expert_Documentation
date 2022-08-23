@@ -1,4 +1,6 @@
 # MIS Report
+![How to retrieve MIS Reports on the MFI Expert system](./images/MIS%20Reports.png "MIS Report")
+***Retrieve MIS Report***
 
 
 - On the main menu click on the report tab
