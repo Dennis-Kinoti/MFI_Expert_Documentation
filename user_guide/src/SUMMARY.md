@@ -39,6 +39,13 @@
   - [Reports](Reports.md)
     - [Branch Reports](Branch_Reports.md)
     - [Product Reports](Product_Reports.md)
+    - [Customer Reports](Customer_Reports.md)
+    - [Savings Account Reports](Savings_Account_Reports.md)
+    - [Loan Account Reports](Loan_Account_Reports.md)
+    - [Transactions Reports](Transactions_Reports.md)
+    - [MIS Reports](MIS_Reports.md)
+    - [General Ledger Reports](General_Ledger_Reports.md)
+  
   
 ------
 
