@@ -37,6 +37,7 @@
     - [Importing Transactions](./importing_Transactions.md)
     - [Branch Movements](./Branch-movements.md)
   - [Reports](Reports.md)
+    - [Branch Reports](test_report.md) 
     - [Product Reports](Product_Reports.md)
     - [Customer Reports](Customer_Reports.md)
     - [Savings Account Reports](Savings_Account_Reports.md)
@@ -44,7 +45,7 @@
     - [Transactions Reports](Transactions_Reports.md)
     - [MIS Reports](MIS_Reports.md)
     - [General Ledger Reports](General_Ledger_Reports.md)
-    - [branch Reports](test_report.md)
+    -
   
   
 ------
