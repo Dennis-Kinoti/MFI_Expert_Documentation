@@ -10,7 +10,6 @@
     - [Setting Up Regions](Setting_up_Regions.md)
     - [Setting Up Branches](./Setting_up_Branches.md)
     - [Creating GL Account](./Creating_GL_Accounts.md)
-      - [Customizing GL Account](./Customizing_GL_Accounts.md)
     - [Setting Up Savings Products](./Setting_up_Savings_products.md)
     - [Setting Up Loan Products](./Setting_up_Loan_Products.md)
     - [Setting Up Suppliers](./Setting_up_Suppliers.md)
