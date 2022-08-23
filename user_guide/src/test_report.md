@@ -1,4 +1,4 @@
-# branch Reports
+# Branch Reports
 ![How to get branch reports on the MFI Expert system](./images/Branch_Reports.png "Branch Reports")\
 ***How to get Branch Reports***
 
