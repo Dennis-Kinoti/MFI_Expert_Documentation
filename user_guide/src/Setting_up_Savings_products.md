@@ -1,5 +1,5 @@
 # Setting up Saving Products
-![How to setup savings product on the MFI Expert application](./images/Setting_up_savings_product.png "Savings Product Setup")
+![How to setup savings product on the MFI Expert application](./images/Setting_up_savings_product.png "Savings Product Setup")\
 ***Setting up Savings Product***
 
 - On the main menu click on general setup. 

@@ -1,5 +1,5 @@
 # How to make Group Modification
-![How to make group modifications on the MFI Expert system](./images/Group_modification.png "Group Modifications")
+![How to make group modifications on the MFI Expert system](./images/Group_modification.png "Group Modifications")\
 ***Group Modifications***
 
 - On the main menu click on customer setup tab.

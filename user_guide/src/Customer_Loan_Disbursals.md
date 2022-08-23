@@ -1,5 +1,5 @@
 # How to make Loan Disbursals
-![How to make loan disbursals on the MFI Expert application](./images/Loan_disbursal.png "Loan Disbursal")
+![How to make loan disbursals on the MFI Expert application](./images/Loan_disbursal.png "Loan Disbursal")\
 ***How to make a Loan Disbursal***
 
 - On the main menu click on customer setup tab.

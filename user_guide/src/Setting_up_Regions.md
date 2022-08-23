@@ -1,5 +1,5 @@
 # Setting Up Regions
-![How to set up regions on the mfi expert system](./images/Regions.png "Region Setup")
+![How to set up regions on the mfi expert system](./images/Regions.png "Region Setup")\
 ***Setting up Regions***
 
 - On the main menu click on general setup tab.

@@ -1,5 +1,5 @@
 # Onboarding New Customer Groups
-![How to onboard a new customer group on the MFI Expert system](./images/New_Customer_Group.png "New Customer Groups")
+![How to onboard a new customer group on the MFI Expert system](./images/New_Customer_Group.png "New Customer Groups")\
 ***This is the image caption***
 
 - On the main menu click on the customer setup tab.

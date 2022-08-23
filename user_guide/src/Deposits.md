@@ -1,5 +1,5 @@
 # How to initiate Customer Deposits
-![How to make customer deposits on the MFI Expert system](./images/Customer_Deposits.png "Customer Deposits")
+![How to make customer deposits on the MFI Expert system](./images/Customer_Deposits.png "Customer Deposits")\
 ***Making Customer Deposits***
 
 - On the main menu click on customer transactions tab.

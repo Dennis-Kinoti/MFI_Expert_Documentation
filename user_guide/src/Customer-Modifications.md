@@ -1,5 +1,5 @@
 # Customer Modification
-![How to make customer modifications on the MFI Expert system](./images/Customer_modification.png "Customer Modification")
+![How to make customer modifications on the MFI Expert system](./images/Customer_modification.png "Customer Modification")\
 ***Customer Modification***
 
 - On the main menu click on customer setup tab.

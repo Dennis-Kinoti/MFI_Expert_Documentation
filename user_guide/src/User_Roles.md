@@ -1,6 +1,6 @@
 # How to create User Roles
 
-![How to create user roles on the mfiexpert website](./images/Roles_setup.png "New Role")
+![How to create user roles on the mfiexpert website](./images/Roles_setup.png "New Role")\
 ***The New Role user interface on the website.***
 -  On the the main menu click on the Security tab .
 -  On the drop down menu that appears click on manage roles.

@@ -1,5 +1,5 @@
 # How to create a New User
-![How to create a new user on the mfiexpert system](./images/New_User.png "New User")
+![How to create a new user on the mfiexpert system](./images/New_User.png "New User")\
 ***Creating a New User***
 
 - Log on into the system through the web application.

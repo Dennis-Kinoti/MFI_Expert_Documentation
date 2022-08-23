@@ -1,5 +1,5 @@
 # How to perform Adjustments
-![How to make new adjustments on the MFI Expert system](./images/Adjustment.png "New Adjustments")
+![How to make new adjustments on the MFI Expert system](./images/Adjustment.png "New Adjustments")\
 ***How to make Adjustments***
 
 - On the main menu click on the customer transactions. 

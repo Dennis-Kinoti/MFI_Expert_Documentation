@@ -1,5 +1,5 @@
 # Setting up Loan Products
-![How to setup a loan product on mfiexpert system](./images/Loan_Products.png "Loan Product Setup")
+![How to setup a loan product on mfiexpert system](./images/Loan_Products.png "Loan Product Setup")\
 ***Loan Product Setup***
 
 - On the main menu click on general setup tab.

@@ -1,5 +1,5 @@
 # Loan Officer Targets
-![How to setup targets for loan officers on the MFI Expert system](./images/Loan_Officer_Targets.png "Loan Officer Targets")
+![How to setup targets for loan officers on the MFI Expert system](./images/Loan_Officer_Targets.png "Loan Officer Targets")\
 ***Setting up Targets for Loan Officers***
 
 - On the main menu click on customer setup tab.

@@ -1,5 +1,5 @@
  # How to create a New Loan
- ![How to create a new loan on the MFI Expert system](./images/New_Loan.png "New Loan")
+ ![How to create a new loan on the MFI Expert system](./images/New_Loan.png "New Loan")\
 ***Creating a New Loan***
 
 - On the main menu click on the customer setup tab.

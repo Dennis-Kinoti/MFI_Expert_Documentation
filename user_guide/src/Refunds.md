@@ -1,5 +1,5 @@
 # How to make Refunds
-![How to make a refund on the MFI Expert system](./images/Refunds.png "New Refunds")
+![How to make a refund on the MFI Expert system](./images/Refunds.png "New Refunds")\
 ***How to make Refunds***
 
 - On the main menu click on the customer transactions tab.

@@ -1,5 +1,5 @@
 # How to make Branch Movements
-![How to make branch movements on the MFI Expert system](./images/Branch_Movement.png "Branch Movements")
+![How to make branch movements on the MFI Expert system](./images/Branch_Movement.png "Branch Movements")\
 ***Branch Movements***
 
 - On the main menu click on customer transactions.

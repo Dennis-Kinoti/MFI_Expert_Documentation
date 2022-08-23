@@ -1,5 +1,5 @@
 # How to perform Forfeitures
-![How to perform Forfeiture transactions on the MFI Expert application](./images/Forfeitures.png "Forfeitures")
+![How to perform Forfeiture transactions on the MFI Expert application](./images/Forfeitures.png "Forfeitures")\
 ***Performing Forfeitures***
 
 - On the main menu select customer transactions.
