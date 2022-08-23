@@ -1,6 +1,6 @@
 # Loan Account Reports
 
-![How to retrieve loan account reports on the MFI Expert system](./images/Loan%20Account%20Reports.png "Loan Product reports")
+![How to retrieve loan account reports on the MFI Expert system](./images/Loan%20Account%20Reports.png "Loan Product reports")\
 ***Loan Account Reports***
 
 - On the main menu click on the reports tab

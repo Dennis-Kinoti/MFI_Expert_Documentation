@@ -1,5 +1,5 @@
 # Customer Reports
-![How to retrieve customer reports on the MFI Expert system](./images/Customer%20Reports.png "Customer Reports")
+![How to retrieve customer reports on the MFI Expert system](./images/Customer%20Reports.png "Customer Reports")\
 ***Retrieving Customer Rports***
 - On the main menu click on the reports tab.
 - On the drop down menu select on customer reports.

@@ -1,5 +1,5 @@
 # Transactions Reports
-![How to retrieve transactions reports on the MFI Expert system](./images/Transactions%20Reports.png "Transaction Reports")
+![How to retrieve transactions reports on the MFI Expert system](./images/Transactions%20Reports.png "Transaction Reports")\
 ***Hoe to get Transactions Reports***
 
 - On the main menu click on reports tab

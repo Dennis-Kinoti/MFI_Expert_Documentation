@@ -1,5 +1,5 @@
 # MIS Report
-![How to retrieve MIS Reports on the MFI Expert system](./images/MIS%20Reports.png "MIS Report")
+![How to retrieve MIS Reports on the MFI Expert system](./images/MIS%20Reports.png "MIS Report")\
 ***Retrieve MIS Report***
 
 
