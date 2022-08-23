@@ -8,7 +8,7 @@
 - On the new page that appears select the branch.
 - Select the mode of disbursal.
 - Click on the refresh button.
-- ![How to make loan disbursals on the MFI Expert application](./images/Loans_to_be_disbursed.png "Loan Disbursal")
+- ![How to make loan disbursals on the MFI Expert application](./images/Loans_to_be_disbursed.png "Loan Disbursal")\
 ***How to make a Loan Disbursal***
 
 

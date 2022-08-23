@@ -15,7 +15,7 @@
 - If there is an interest on the product indicate the GL account for it.
 - Click on the save button to create the product.
 ## Adding Charges
-![How to add charges to a Savings product on the MFI Expert system](./images/Adding_charges_to_savings-products.png "Adding Charges")
+![How to add charges to a Savings product on the MFI Expert system](./images/Adding_charges_to_savings-products.png "Adding Charges")\
 ***Adding Charges to a Savings Product***
 
 

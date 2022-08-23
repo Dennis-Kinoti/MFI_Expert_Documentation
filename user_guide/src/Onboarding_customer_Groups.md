@@ -1,6 +1,6 @@
 # Onboarding New Customer Groups
 ![How to onboard a new customer group on the MFI Expert system](./images/New_Customer_Group.png "New Customer Groups")\
-***This is the image caption***
+***Onboarding a New Customer Group***
 
 - On the main menu click on the customer setup tab.
 - Under customer setup click on Groups.
@@ -18,7 +18,7 @@
 
 
 Document Uploads
-![How to upload necessary documents on the new customer groups on the MFI Expert system](./images/New_Customer_Group_doc_upload.png "Document Uploads")
+![How to upload necessary documents on the new customer groups on the MFI Expert system](./images/New_Customer_Group_doc_upload.png "Document Uploads")\
 ***Uploading Documents***
 
 
