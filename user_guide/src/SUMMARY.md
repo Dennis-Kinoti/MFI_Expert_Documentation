@@ -2,7 +2,7 @@
 
 [Introduction](introduction.md)
 ---
-- [Web App](./web_app.md)
+- [Web App](./web_aGV pp.md)
   - [Manage Users](Handling_Users.md)
     - [Creating User Roles](./User_Roles.md)
     - [Register New User](./New_user.md)
@@ -49,7 +49,7 @@
   
 ------
 
-- [Mobile App](mobile_app.md)
+- [Mobile App](./mobile_app.md)
   -  [New Customer Group](./New_Customer_Group_Mobile.md) 
   -  [New_Customer](New_Customer_Mobile.md)
   -  [New_Loan](New_Loan_Mobile.md)
