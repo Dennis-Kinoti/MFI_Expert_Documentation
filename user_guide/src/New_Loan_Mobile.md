@@ -1,4 +1,4 @@
-# New_Loan
+# New Loan
 ![How to create a new loan on the MFI Expert mobile application](./images/Mobile_New_Loan.png "New Loan Application")\
 ***Creating  new loan on the mobile app***
 - On the primary page click on the loan tab.
