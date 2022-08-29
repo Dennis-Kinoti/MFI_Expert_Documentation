@@ -51,9 +51,9 @@
 
 - [Mobile App](./mobile_app.md)
   -  [New Customer Group](./New_Customer_Group_Mobile.md) 
-  -  [New_Customer](New_Customer_Mobile.md)
-  -  [New_Loan](New_Loan_Mobile.md)
-  -  [Refunds](New_Refund_Mobile.md)
+  -  [New Customer](./New_Customer_Mobile.md)
+  -  [New Loan](./New_Loan_Mobile.md)
+  -  [Refunds](./New_Refund_Mobile.md)
   
  
 
